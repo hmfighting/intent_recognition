@@ -1,0 +1,120 @@
+It's a nice day 1
+It sure is 1
+a beautiful day 1
+It's a wonderful day 1
+It's a great day 1
+Did you go to bed late last night 1
+Let's fold up the futon 1
+Let's put the futon away 1
+You were snoring last night 1
+ni shua ya le ma 0
+chuan shen me hao ne 0
+chuan hong se yi fu ba 0
+kuai huan yi fu 0
+wo zou le 0
+jin tian wo men tao xue ba 0
+ni mao yi chuan fan le 0
+To change the address 1
+gai di zhi 0
+Please help me check how the rejected order number is not displayed 1
+bang wo cha xia wo ju shou de ding dan hao zen me bu xian shi 0
+zai ma 0 
+anyone here 1
+Can you rush the Courier 1
+neng cui yi xia kuai di yuan ma 0
+Why can't I get through 1
+wo zen me yi zhi da bu tong ya 0
+thank 1
+xie xie 0
+I try again 1
+wo zai shi shi 0
+Check if the order was placed successfully 1
+cha kan yi xia xia dan shi fou cheng gong 0
+I want to check 1
+wo xiang yao cha jian 0
+This interface is completely unreadable 1
+zhe ge jie mian wang quan kan bu dong 0
+I bought a thing from wenzhou to shijiazhuang 1
+wo mai le yi ge dong xi cong wen zhou fa wang shi jia zhuang 0
+How does the branch apply 1
+ru he shen qing wang dian 0
+We want to reject another express 1
+you yi ge kuai di xu yao ju shou 0
+Direct call customer service 1
+zhi jie zhao huan ke fu 0
+How can I pay for the lost parcel 1
+bao guo diu shi ru he pei chang 0
+I want to check 1
+wo xiang yao cha jian 0
+This interface is completely unreadable 1
+zhe ge jie mian wang quan kan bu dong 0
+I bought a thing from wenzhou to shijiazhuang 1
+wo mai le yi ge dong xi cong wen zhou fa wang shi jia zhuang 0
+How does the branch apply 1
+ru he shen qing wang dian 0
+We want to reject another express 1
+you yi ge kuai di xu yao ju shou 0
+Direct call customer service 1
+zhi jie zhao huan ke fu 0
+How can I pay for the lost parcel 1
+bao guo diu shi ru he pei chang 0
+it is late to sent my delivery 1
+kuai di chi chi bu song 0
+The delivery is too slow I need it urgently 1
+kuai di tai man le wo ji zhe shi yong 0
+The attitude of the Courier is too bad 1
+kuai di yuan de tai du tai cha le 0
+How can the Courier still curse 1
+yu yue xia dan mei you ke xuan ze de di zhi 0
+How much is it to send abroad 1
+ji guo wai duo shao qian yi jin 0
+How to charge freight 1
+chong zhi yuan fei zen me cao zuo 0
+Check express weight 1
+cha xun kuai jian zhong liang 0
+Direct call customer service 1
+zhi jie zhao huan ke fu 0
+ke fu re xian 0
+Customer service hotline 1
+ke fu re xian zen me jie bu tong 0
+Why is the customer service hotline different 1
+My four seasons hotel in macau wants to deliver to dongguan 1
+wo zai ao men de si ji fan dian xiang song huo dao dong guan 0
+bu shi ye wu yuan de shi ke fu de guo ji dian hua o 0
+The international phone number that is not clerk is customer service 1
+Where can I see the tracking number 1
+kuai di dan hao zai na li cha kan 0
+gen ju ming zi shou ji hao cha jian 0
+Check the file by name and phone number 1
+How to inquire the branch telephone 1
+xiao xing dian zi chan pin zen me bao zhuang 0
+How to query yuantong cold transport order information 1
+ru he cha xun yuan tong leng yun ding dan xin xi 0
+Is there any shipping charge for returning or forwarding the express 1
+kuai di tui hui huo zhuan ji yao gei yun fei ma 0
+What is the promise of yto timing 1
+yuan tong ji shi da shi xiao you shen me cheng nuo 0
+Why do you need to provide legal documents 1
+bao jia kuai jian dai qian wei shen me yao ti gong he fa zheng jian 0
+What are the advantages of yto timing with ordinary express delivery 1
+yuan tong ji shi da gen pu tong kuai di you shen me you shi 0
+gong zong hao 0
+we chat 1
+Official Accounts 1
+wei xin 0
+qing guan 0
+cheng nuo da 0
+ha er bing 0
+Harbin 1
+the order of tianmiao 1
+ji jian lian 0
+parcel 1
+bao guo 0
+li dian chi 0
+Sorry I'm tone-deaf 1
+I drank too much 1
+wo he tai duo le 0
+I want to check the delivery 1
+wo xiang cha kuai di 0
+What is the branch number 1
+wang dian dian hua shi duo shao 0

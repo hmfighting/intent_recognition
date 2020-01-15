@@ -1,0 +1,487 @@
+hello 1
+my name is humiao 1
+ni hao 0
+Good morning John 1
+You finally got up 1
+I'm still sleepy 1
+I had a nightmare 1
+It's all right now 1
+You forgot to turn off the light 1
+I'm still sleepy 1
+I'm still yawning 1
+Coffee wakes me up 1
+ye mao zi 0
+wo shi ge ye mao zi 0
+wo ke bu shi 0
+wo xi huan zao qi 0
+bai bai 0
+wo hui jia le 0
+zhu yi shen ti 0
+zai jian 0
+What brings you here 1
+ni lai zhe li zuo shen me 0
+How are you doing 1
+ni hao ma 0
+Let me introduce myself to you 1
+rang wo lai jie shao yi xia zi ji 0
+you are faithful 1
+ni shi ge shou xin yong de ren 0
+Please call me David 1
+qing jiao wo da wei 0
+I already have a fiance 1
+wo yi jing you dui xiang le 0
+I hope I can be a friend to all of you 1
+wo xi wang cheng wei ni de peng you 0
+Nice earrings 1
+piao liang de er huan 0
+How long have you been in America 1
+ni zai mei guo zhu duo jiu le 0
+Give me a hug 1
+gei wo yi ge yong bao ba 0
+Do you like traveling 1
+ni xi huan lv you ma 0
+What should I wear 1
+wo ying gai chuan shen me ne 0
+the red one 1
+hong se de ba 0
+Hurry up and get dressed 1
+gan kuai chuang yi fu ba 0
+Study hard 1
+hao hao xue xi ba 0
+See you later 1
+yi hui jian 0
+It's upside down 1
+shang xia dian dao le 0
+Good job 1
+tai bang le 0
+I can't keep track of the new music 1
+ni men zhou mou song jian ma 0
+Why is your delivery so slow 1
+wei shen me ni jia de kuai di zhe me man 0
+express clearance time 1
+kuai di qing guan shi xiao 0
+Please turn to customer service 1
+qing bang wo zhuan ren tong ke fu 0
+There was no logistics update all day 1
+zheng zheng yi tian dou mei you wu liu xin xi 0
+Can my express be returned 1
+wo de kuai di neng bei tui hui ma 0
+The signed order has not been put into storage for half a month Please help me check it 1
+ding dan qian shou ban ge yue mei ru ku ma fan bang wo kan yi xia 0
+The package has been packed in a box, how to operate the back 1
+bao guo yi he xiang hou mian ru he cao zuo 0
+The display screen was damaged during mailing 1
+xiang shi ping you ji guo cheng zhong bei sun huai 0
+Parcel weight discrepancy 1
+bao guo zhong liang bu fu 0
+Give the answer as soon as possible 1
+jin kuai gei wo da an 0
+Whether to provide electronic invoice 1
+shi fou ti gong dian zi fa piao 0
+Give me the phone number of anhui chaohu lake 1
+qing gei wo an hui chao hu de dian hua 0
+How to pay for missing parcel 1
+bao guo diu shi ru he pei fu 0
+What should I do if I lose my express package 1
+kuai di bao guo diu shi zen me ban 0
+express from Korea to China 1
+cong han guo fa wang zhong guo 0
+Why input single number can not be found 1
+wei shen me shu ru dan hao cha bu dao 0
+The delivery address is wrong 1
+kuai di di zhi tian cuo le 0
+Single number query 1
+dan hao cha xun 0
+I didn't get the tracking number when I sent the express 1
+ji kuai di de shi hou mei gei wo dan hao 0
+Will you call before delivery 1
+pai jian qian hui dian hua lian xi bu 0
+this is a wrong number 1
+zhe shi ge cuo wu de dian hua hao ma 0
+Can you do collection service 1
+ni men zuo dai shou fu wu ma 0
+How long will it take 1
+pi jia xu yao duo jiu 0
+ha lou 1
+please ask how much it will cost to send the goods to summer gate 1
+wen yi xia ru guo yao ji huo dao xia men fei yong da yue shi duo shao 0
+You said you'd handle it on Tuesday 1
+ni men shang ci shou xing qi er chu li hao de 0
+Intercept express 1
+lan jie kuai di 0
+There's a problem with the product 1
+shang pin cun zai wen ti 0
+Cancel group shipments and recombine cargo 1
+qu xiao ji yun bin qie chong xin he bin 0
+What should I do if the package I received is short 1
+shou dao bao guo fa xian shao jian zen me ban 0
+What is customs declaration 1
+shen me shi bao guan 0
+Payment failure 1
+fu kuan shi bai 0
+Failed to collect customer express 1
+shou qu ke hu de kuai di shi bai 0
+The express mail has been received but not yet sent out 1
+kuai jian bei lan shou le dan shi hai wei fa chu qu 0
+Can't you assign a dispatcher to pick up the delivery 1
+bu neng zhi ding shou pai yuan shou pai jian de ma 0
+Can sensitive departments receive and send express mail 1
+min gan bu men ke yi shou pai kuai jian ma 0
+How to deal with the work 1
+lan jian ru he chu li 0
+ha ha 0
+The express shows receipt but the warehouse has not received the package how to deal with it 1
+kuai di xian shi qian shou dan cang ku wei shou dao bao guo yao ru he chu li 0
+Rejection shows receipt 1
+ju shou xian shi qian shou le 0
+How can I return the parts I sent to your warehouse 1
+wo fa ni men cang ku de jian zen me tui hui le 0
+Why do you have to send my express somewhere else 1
+ni men zen me dou ba wo de kuai di song dao bie de di fang 0
+Received the fake goods 1
+shou dao jia huo le 0
+What should I do if I receive more money 1
+duo shou kuan xiang le zen me ban 0
+Use your phone number to check your delivery 1
+yong dian hua hao ma cha kuai di 0
+I want to change the tracking number to Hong Kong address Could you please help me deal with it 1
+ci dan hao xiang gai ji xiang gang di zhi neng fou bang mang neng fou bang mang chu li 0
+I would like to repack it 1
+wo xiang chong xin da bao 0
+Where's my delivery 1
+wo de kuai di dao na li le 0
+Help me find out where my delivery is 1
+Wrong order address 1
+ding dan di zhi cuo wo 0
+Why can't I change the shipping address 1
+wei shen me wu fa xiu gai shou huo di zhi 0
+Why can't the hotline be reached 1
+re xian dian hua wei shen me wu fa jie tong 0
+What should I do if the package is not put in storage after signing for receipt 1
+bao guo qian shou bu ru ku 0
+Did pioneer express go out of business 1
+xian feng kuai di dao bi le ma 0
+How to subsidize tariffs 1
+guan shui zen me bu tie 0
+What if my express is detained by the customs 1
+wo de kuai jian bei hai guan kou huo zen me ban 0
+A few things to note when mailing 1
+ji jian xu yao zhu yi de yi xie shi xiang 0
+What should be noted in signing for the receipt of goods 1
+huo wu qian shou xu yao na xie zhu yi shi xiang 0
+I want to send express from home to Singapore 1
+wo xiang cong guo nei ji kuai di dao xin jia po 0
+The express is too slow I need it urgently. It will be used tomorrow 1
+kuai di tai man le wo ji yong ming tian jiu yao yong le 0
+Four parcels arrived in the duty free state last week Why haven't they been put in storage 1
+mian shui zhou si ge bao guo shang zhou jiu dao le dan hai mei you ru ku 0
+I want to eat lunch 1
+wo xiang yao chi wu fan 0
+Only the recipient's phone number how to check the delivery 1
+zhi you shou jian ren dian hua zen me cha kuai di 0
+My parcel is broken 1
+wo de bao guo po sun le 0
+Core values of yto 1
+yuan tong he xin jia zhi guan 0
+What is the time limit for transshipment of imported parts from the United States 1
+mei guo jin kou jian zhuan yun shi xiao shi duo shao 0
+How to subsidize tariffs 1
+guan shui zen me bu tie 0
+What happened to my delivery 1
+wo de kuai di shi zen me hui shi ne 0
+What if my express is detained by the customs 1
+wo de kuai jian bei hai guan kou huo zen me ban 0
+hi 1
+sorry 1
+dui bu qi 0
+Parcel weight discrepancy 1
+bao guo zhong liang bu fu 0
+The logistics haven't been updated for days 1
+wu liu dou ji tian mei gen xin 0
+That page is showing too slowly 1
+na ye mian xian shi tai man 0
+I want to change the delivery address 1
+wo xiang xiu gai shou huo di zhi 0
+The pro Courier took it but didn't give me the receipt number 1
+qing kuai di na le dan shi mei gei shou ju dan hao 0
+Why did the goods I sent from America to Shanghai go to jilin 1
+wo cong mei guo ji dao shang hai de huo wu wei sha qu le ji lin 0
+How to upload your id card 1
+shen fen zheng zen me shang chuan 0
+Unable to upload id photo 1
+wu fa shang chuan shen fen zheng zhao pian 0
+zen me cha bu dao xin xi 0
+How to look up information 1
+dou si tian wu liu mei gen xin 0
+The logistics haven't been updated for four days 1
+How long will it take to pick up the order 1
+xia dan hou duo jiu neng shang men qu jian 0
+Please help me check whether the package has been delivered or not 1
+ni xian bang wo kan kan zhe ge bao guo dao di you mei you fa huo 0
+Can we intercept the delivery 1
+neng lan jie kuai di ma 0
+Where can I pay 1
+zai na li fu kuan 0
+qin zai ma 0
+Father in 1
+Hello 1
+how does the information system not use to submit the package into the warehouse 1
+ni hao xin xi xi tong bu hui yong zen me ti jiao a 0
+Can you help me find the sender's number 1
+neng bang wo zhao dao ji jian ren de dian hua ma 0
+Express delivery has not been updated for a long time 1
+kuai di chang shi jian mei you geng xin 0
+Hello my package has been out of condition for several days 1
+ni hao wo de kuai di yi jing hao ji tian dou mei zhuan tai le 0
+It's been almost a week 1
+you kuai yi ge li bai le 0
+kuai di dan zen me tian xie 0
+How do I fill in the express bill 1
+ru he cha xun wang dian dian hua 0
+zen me zai guan wang cha xun wang dian xin xi 0
+How to inquire network information in the official website 1
+shou ji hao neng cha kuai di ma 0
+Can mobile phone number check express delivery 1
+ni rang wo shao deng hai yuan wo bu shuo hua 0
+You made me wait and you blamed me for not talking 1
+ao da li ya jia ge xian zhi biao zhun 0
+Australian price fixing standard 1
+Haven't I got the approval yet 1
+wo de hai mei you pi jia ma 0
+ke yi you ji dao fa guo ma 0
+Can I mail it to France 1
+can you help me to trace the package 1
+Can you pick them up at any nearby sites 1
+ni men zai fu jin de zhan dian ke yi shang men qu jian 0
+zhi fu bu liao zhao shui ya 0
+can i pay for 1
+neng cha dao kuai di zhuang tai ma 0
+Can you check the status of express delivery 1
+bang wo he shi ge qing kuang ba 0
+how many is Shenyang transfer center telephone 1
+shen yang zhuan yun zhong xin de dian hua hao ma shi duo shao 0
+The estimated time of arrival is different from the actual time of arrival 1
+How do I add recipient information to an order 1
+ding dan ru he tian jia shou jian ren xin xi 0
+zen me geng gai yu yue shou jian shi jian 0
+What is yuantong fresh warehouse 1
+yuan tong xian cang shi shen me 0
+What is yuantong fresh transport 1
+yuan tong xian yun shi shen me 0
+What is yuantong xianpei 1
+yuan tong xian pei shi shen me 0
+Why is the express returned 1
+kuai di bei tui hui de yuan yin shi shen me 0
+Can you extend the deadline 1
+zui wan shou jian shi jian ke yi yan chang ma 0
+Express hotline number 1
+kuai yun re xian hao ma 0
+What is the maximum amount for collection 1
+dai shou zui gao jin e shi shen me 0
+Can the express be invoiced 1
+kuai di ke yi kai fa piao ma 0
+Contraband problem 1
+jin yun pin wen ti 0
+Which cities have the time delivery service 1
+you na xie cheng shi you ji shi da fu wu 0
+How do I return or forward express mail 1
+kuai jian ru he tui hui huo zhuan ji 0
+I can't find the order number 1
+ding dan hao zhao bu dao le 0
+Why does the package return to the warehouse and then open the box for inspection 1
+wei shen me bao zhuan hao de piao jian hui cang hou you kai xiang yan huo 0
+How do I pack liquids 1
+ye ti lei wu pin zen me bao zhuang 0
+Leshan yuantong company telephone number 1
+le shan yuan tong gong si dian hua 0
+Will the delivery of express mail to other express companies affect the time limit 1
+kuai jian jiao gei qi ta kuai di gong si pai song hui bu hui ying xiang shi xiao 0
+What if I miss delivery 1
+cuo guo kuai di pai song zen me ban 0
+Is there a box package when you pick up the pieces 1
+qu jian shi shi fou you he zi bao zhuang 0
+Which fruits can use fresh fruit viewsonic service 1
+na xie shui guo ke shi yong xian guo you pai fu wu 0
+How to pack small electronic products 1
+check my dog 1
+neng yun shu wo de gou gou ma 0
+contact 1
+ha er bing dao li qu 0
+dian hua 0
+telephone 1
+I'm angry 1
+pai jian 0
+dai shou huo kuan 0
+Send delivery 1
+song kuai di 0
+xiu gai di zhi 0
+change address 1
+cha jian 0
+ji kuai di 0
+check express 1
+Waiting for LanShou 1
+lan shou 0
+information 1
+xin xi 0
+xian feng hai tao 0
+customer 1
+bao jia 0
+zi ying xian 0
+Proprietary line 1
+Dispatcher telephone number 1
+pai song yuan 0
+dian hua 0
+telephone number 1
+fu jin wang dian 0
+Near the site 1
+chun jie 0
+spring festival 1
+bian hao 0
+serial number 1
+Query shipping charges 1
+yun fei 0
+American 1
+Intercept express 1
+Don't understand 1
+mental retardation 1
+ruo zhi 0
+bu neng li jie 0
+jin yun pin 0
+contraband goods 1
+tea leaf 1
+cha ye 0
+li pei 0
+claim settlement 1
+how long 1
+how much 1
+please 1
+qing 0
+duo jiu 0
+duo shao qian 0
+code 1
+qu jian ma 0
+tui huo 0
+Return of the goods 1
+legal 1
+su di 0
+kuai jian 0
+jian 0
+fast express 1
+High speed road 1
+gao su lu duan 0
+dai ban dian 0
+website 1
+Shanghai 1
+the alarm clock 1
+It's time to get up 1
+I don't want to get up 1
+Get up soon 1
+I don't want to 1
+Are you awake 1
+Are you feeling sick 1
+Did you sleep well 1
+Yes I slept very well 1
+Did you sleep well 1
+No I couldn't fall asleep 1
+Please turn off the alarm clock 1
+jin tian ni gan shen me 0
+ni kuai dian er 0
+wo men chi dao le 0
+ni suo men le ma 0
+dou yi jing ba dian le 0
+wo dei gan jin zou 0
+fan he dai le ma 0
+jin tian hao xiang yao xia yu 0
+wo hui lai le 0
+jin tian guo de yu kuai ma 0
+wo gen bu shang yin yue de jie zou 0
+Let's sing a duet 1
+lai ge er chong chang ba 0
+dui bu qi wo wu yin bu quan 0
+Us transhipment price 1
+mei guo zhuan yun jia ge 0
+Find the delivery receipt 1
+zhao kuai di qian shou di dan 0
+How much does it cost to continue one kilogram 1
+xu zhong yi qian ke duo shao qian 0
+Express mail hair wrong 1
+kuai jian fa cuo le 0
+What's the charge for collect 1
+dao fu jian zen me shou fei 0
+What's wrong with my delivery 1
+Do you do express delivery this weekend 1
+wo zhe ge kuai di shi zen me hui shi 0
+bang wo cha yi xia wo de kuai di dao na li le 0
+It has been nearly a week since I submitted the order but I still haven't replied 1
+ti jiao he dan hou yi jing jiang jin yi zhou reng mei you hui fu 0
+Logistics information does not update who to contact 1
+wu liu xin xi bu geng xin lian xi shui 0
+How to check international express 1
+guo ji kuai di zen me cha 0
+I would like to ask if my goods have not been received yet 1
+wo xiang wen wen wo de huo pin hai wei shou dao 0
+Shanxi taiyuan sent to shandong taian how to charge 1
+shan xi tai yuan ji dao shan dong tai an zen me shou fei 0
+kuai di yuan zen me hai ma ren 0
+Why doesn't that answer my question 1
+zen me zhe yang jing ran bu hui da wo de wen ti 0
+Thank you 1
+xie xie ning le 0
+The Courier overcharged 1
+kuai di yuan jing ran duo shuo wo qian le 0
+Can meat plants be sent to Taiwan 1
+How to place the order 1
+zen me xia dan 0
+There is no optional address for booking 1
+xia pi fa huo 0
+Dried small shrimps delivery 1
+cui jian 0
+Send the express earlier 1
+qing wen kuai di yong kong yun duo shao qian 0
+cha xun guo ji kuai di 0
+Check international express 1
+wo yao di zhi gai qian zen me nong 0
+How do I change my address 1
+he dan hou zen me fu kuan 0
+How will you pay after the order is made 1
+What is the tracking number of my package returned to the seller 1
+wo de bao guo tui hui mai jia de yun dan hao shi duo shao 0
+What is the tracking number of my package returned to the seller 1
+Overseas online shopping transshipment 1
+hai tao zhuan yun 0
+How come there's no delivery 1
+zen me mei you ren song huo a 0
+Help me check the situation 1
+lian xi fang shi 0
+cheng nuo da 0
+chong dian bao 0
+guan shui 0
+tai wang 0
+taiwang 1
+ok 1
+ke yi de 0
+sorry 1
+dui bu qi 0
+xia pi fa huo 0
+Dried small shrimps 1
+mail 1
+you ji 0
+go home 1
+zhuan yun 0
+no information 1
+Check it for me 1
+an hui fu yang 0
+bang wo cha yi xia 0
+Why is express delivery so slow 1
+kuai di song huo zen me zhe me man ne 0
+Hello my order number is gone. Can you help me check the address 1
+qing ning hao wo dan hao mei le dan you di zhi ke yi bang mang cha xun xia ma 0
+Logistics information has been put into feng nest 1
+wu liu xin xi xian shi yi fang ru feng chao 0
+What's the latest time for delivery 1
+pai jian zui wang ji dian pai song 0
+Will you accept delivery in inclement weather 1
+tian qi e lie hui shou pai jian ma 0
+How can I change the pick up time 1
+How much is the air freight of er shi jin zhong 1
+yu ji dao jian shi jian he shi ji dao jian shi jian bu yi yang 0
